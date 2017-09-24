@@ -39,6 +39,8 @@ public class Main {
 					}
 				}
 			}
+			
+			br.close();
 
 		} catch (Exception e) {
 			// TODO: handle exception
